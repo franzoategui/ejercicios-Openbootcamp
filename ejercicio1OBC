@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+<!--Este es mi primer comentario de dos líneas-->
+<!--Aprendiendo a documentar mi código con OpenBootcamp-->
+<ul>
+    <li><a href="">OTRO FANFIC MUY LAMENTABLE</a></li>
+    <li><a href="">Nina Kraviz live at @Ultra Music Festival Miami 2022</a></li>
+    <li><a href="">england in august</a></li>
+</ul>
+    </body>
+</html>

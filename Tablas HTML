@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+ <table>
+    <th>Título</th>
+    <th>Autor</th>
+    <th>Año de publicación</th>
+    <th>Enlace en Amazon</th>
+    <tr>
+        <td>"El Jardín de Rama"</td>
+        <td>Arthir C. Clarke y Gentry Lee</td>
+        <td>1991</td>
+        <td><a href="https://www.amazon.com/-/es/Arthur-C-Clarke/dp/8498723779" target="_blank">Enlace al Libro</a></td>
+    </tr>
+    <tr>
+        <td>"La narración de Arthur Gordon Pym"</td>
+        <td>Edgar Allan Poe</td>
+        <td>1838</td>
+        <td><a href="https://www.amazon.com/-/es/Edgar-Allan-Poe/dp/153516459X" target="_blank">Enlace al Libro</a></td>
+    </tr>
+    <tr>
+        <td>"El hombre más rico de Babilonia"</td>
+        <td>George Samuel Clason</td>
+        <td>1926</td>
+        <td><a href="https://www.amazon.com/-/es/George-S-Clason/dp/8477203717" target="_blank">Enlace al Libro</a></td>
+    </tr>
+ </table>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio 03/2 - Multimedia en HTML</title>
+</head>
+<body>
+ <section>
+    <h1>Aprendiendo a utilizar Imágenes</h1>
+    <img src="https://gmedia.playstation.com/is/image/SIEPDC/uncharted-hub-listing-thumb-en-16aug21?$facebook$" alt="Videojuego Uncharted">
+ </section>
+ <section>
+    <h1>Aprendiendo a utilizar Videos</h1>
+    <video src="Multimedia/england_In_August" controls autoplay loop muted></video>
+ </section>
+ <section>
+    <h1>Aprendiendo a utilizar Audios</h1>
+    <audio src="multimedia/leopol_feelalive" controls autoplay loop></audio>
+ </section>
+</body>
+</html>
